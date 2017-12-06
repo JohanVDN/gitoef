@@ -2,4 +2,6 @@
 | Algemeen |
 |==========|
 
--Wijziging
+- Wijziging
+- Tweede wijziging
+- Feature branch aangemaakt
