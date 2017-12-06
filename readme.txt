@@ -6,3 +6,4 @@
 - Tweede wijziging
 - Feature branch aangemaakt
 - Collaborator added
+- hallo
